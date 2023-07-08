@@ -131,7 +131,7 @@ vector = vectorizer.fit_transform(df_combinada)
 
 #Limitamos el data set a 5000 registros por cuestiones de rendimiento
 #Medimos la similitud entre los conjuntos de datos 
-similarity = cosine_similarity(vector[:5000,:])
+similarity = cosine_similarity(vector[:2800,:])
 
 #Funcion Sistema de Recomendacion
 @app.get('/recomendacion/{titulo}')
