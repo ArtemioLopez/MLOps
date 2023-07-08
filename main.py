@@ -175,3 +175,8 @@ def recomendacion(titulo:str):
     except IndexError:
         return {'Resultado': 'El titulo ingresado a quedado fuera del dataset por cuestiones de rendimiento'}
     
+
+if __name__ == "__main__":
+    import uvicorn
+    uvicorn.run(app, host="0.0.0.0", port=8000)
+    
