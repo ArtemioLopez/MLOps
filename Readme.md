@@ -2,7 +2,7 @@
 # PROYECTO INDIVIDUAL Nº1
 
 
-## &nbsp;&nbsp;&nbsp;&nbsp;En este proyecto, se lleva a cabo un proceso completo de extracción y transformación de datos  a partir de un archivo CSV que contiene información detallada sobre el mundo cinematográfico. El archivo incluye datos como títulos de películas, actores, directores, presupuestos, fechas de estrenos,entre otros.
+## &nbsp;&nbsp;&nbsp;&nbsp;En este proyecto, se lleva a cabo un proceso completo de extracción y transformación de datos  a partir de dos archivos CSV que contienen información detallada sobre el mundo cinematográfico. Los archivos incluyen datos como títulos de películas, actores, directores, presupuestos, fechas de estrenos, entre otros.
 
 ## &nbsp;&nbsp;&nbsp;&nbsp;Una vez completada la transformación de datos, se desarrollan una variedad de funciones útiles para poner los datos a disposición a través de una API REST. Esta API permite acceder y consultar la información cinematográfica de manera sencilla e interactiva, brindando a los usuarios una forma flexible de explorar y obtener datos relevantes según sus necesidades.
 
