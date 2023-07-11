@@ -16,7 +16,7 @@ data = pd.read_csv('Movies.csv', parse_dates=['release_date'], keep_default_na=F
 #Funcion Idioma
 @app.get('/peliculas_idioma/{idioma}')
 def peliculas_idioma(idioma:str):
-    #Tranformamos el idioma ingresado por el usuario, en dicho idioma pero en minusculas 
+    #Transformamos el idioma ingresado por el usuario, en dicho idioma pero en minusculas 
     idioma = idioma.lower()
     #Transformamos todos los registros de original language en minusculas 
     data['original_language'] = data['original_language'].str.lower()
@@ -82,7 +82,7 @@ def peliculas_pais(pais:str):
     #Transformamos el pais ingresado por el usuario a formato titulo
     pais = pais.title()
 
-    #Transformamos todos los registros de "production countries" a froamto titulo
+    #Transformamos todos los registros de "production countries" a formato titulo
     data['production_countries'] = data['production_countries'].str.title()
 
     #Identificamos si el pais ingresado existe en el dataset
