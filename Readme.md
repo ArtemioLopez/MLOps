@@ -1,5 +1,7 @@
 
-## PROYECTO INDIVIDUAL Nº1
+<img src="https://sase.org/wp-content/uploads/2020/06/BANNER-SIZE-AI-and-Machine-Learning.jpg" alt="Texto alternativo" width="1600" height="500">
+
+# PROYECTO INDIVIDUAL Nº1
 
 # Introducción
 En el marco del proyecto de Machine Learning propuesto por el Bootcamp de Soy Henry, asumimos el rol de Data Scientist. Nuestra tarea consistió en llevar a cabo diversas etapas, comenzando por la recolección y preprocesamiento de los datos. A continuación, desarrollamos una API para poner a disposición los datos de la empresa, utilizando el framework FastAPI. Llevamos a cabo el deployment del proyecto y realizamos un análisis exploratorio de los datos.
