@@ -1,5 +1,5 @@
 
-<img src="https://www.smartdatacollective.com/wp-content/uploads/2018/11/Machine-learning-scaled.jpg" alt="Texto alternativo" width="1280" height="853">
+<img src="https://www.insight.com/content/insight-web/en_US/content-and-resources/2019/02132019-considering-machine-learning/jcr%3Acontent/top-container-width/column_layout_458368662/-column-1/insight_image_898708280.img.jpg/1571246202522.jpg" alt="Texto alternativo" width="1200" height="400">s
 
 # PROYECTO INDIVIDUAL Nº1
 
