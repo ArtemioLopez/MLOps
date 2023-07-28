@@ -1,5 +1,5 @@
 
-<img src="https://sase.org/wp-content/uploads/2020/06/BANNER-SIZE-AI-and-Machine-Learning.jpg" alt="Texto alternativo" width="1400" height="400">
+<img src="https://www.smartdatacollective.com/wp-content/uploads/2018/11/Machine-learning-scaled.jpg" alt="Texto alternativo" width="1280" height="853">
 
 # PROYECTO INDIVIDUAL Nº1
 
