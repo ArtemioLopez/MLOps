@@ -1,5 +1,5 @@
 
-<img src="https://sase.org/wp-content/uploads/2020/06/BANNER-SIZE-AI-and-Machine-Learning.jpg" alt="Texto alternativo" width="1600" height="500">
+<img src="https://sase.org/wp-content/uploads/2020/06/BANNER-SIZE-AI-and-Machine-Learning.jpg" alt="Texto alternativo" width="1400" height="400">
 
 # PROYECTO INDIVIDUAL Nº1
 
